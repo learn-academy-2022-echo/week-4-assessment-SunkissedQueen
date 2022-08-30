@@ -47,3 +47,4 @@ Researched answer:
 4. Active Record:
 
 5. Migrations:
+<!-- testing that I can stash changes and get old commits -->

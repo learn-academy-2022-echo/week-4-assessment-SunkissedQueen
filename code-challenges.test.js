@@ -48,3 +48,4 @@ const dataArray2 = ["string", "null", "Boolean", "string", "undefined"]
 
 
 // b) Create the function that makes the test pass.
+// <!-- testing that I can stash changes and get old commits -->
