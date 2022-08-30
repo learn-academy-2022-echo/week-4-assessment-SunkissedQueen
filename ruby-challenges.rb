@@ -32,5 +32,3 @@ palindrome_tester2 = 'LEARN'
 # Expected output: 'LEARN is not a palindrome'
 palindrome_tester3 = 'Rotator'
 # Expected output: 'Rotator is a palindrome'
-
-# MAde changes on main

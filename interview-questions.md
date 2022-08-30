@@ -47,4 +47,3 @@ Researched answer:
 4. Active Record:
 
 5. Migrations:
-<!-- MAde changes on main -->
