@@ -23,7 +23,7 @@ const colors2 = ["chartreuse", "indigo", "periwinkle", "ochre", "aquamarine", "s
 
 
 // b) Create the function that makes the test pass.
-
+// MAde changes on main
 
 // --------------------2) Create a function that takes in an object that contains up votes and down votes and returns the net total of votes.
 
